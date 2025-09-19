@@ -4,7 +4,7 @@
 
   <div style="display: inline_block"><br>
     <a href="https://github.com/[SEU-USUARIO-DO-GITHUB]">
-      <img align="center" alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <img align="center" alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
       <img align="center" alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight" />
     </a>
   </div>
