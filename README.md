@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Olá, eu sou [SEU NOME]!</h1>
+  <h1>👋 Olá, eu sou Hugo Antunes!</h1>
 
   <div style="display: inline_block"><br>
     <a href="https://github.com/hugo-antunes19">
@@ -27,9 +27,9 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
 
 ## 🚀 Desafios Atuais
 
-- 🔭 Estudando sobre [Tópico de estudo 1].
-- 🌱 Aprofundando meus conhecimentos em [Tópico de estudo 2].
-- 💡 Buscando oportunidades de estágio em [Sua área de interesse].
+- 🔭 Estudando sobre Detecções de Anomalia.
+- 🌱 Aprofundando meus conhecimentos em Inteligência Artificial e Otimização.
+- 💡 Buscando oportunidades de estágio em Inteligência Artificial.
 
 ## 🛠️ Ferramentas e Tecnologias
 
