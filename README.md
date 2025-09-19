@@ -41,7 +41,3 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
-
-
-### Teste de Imagem Externa
-![Imagem de Teste](https://via.placeholder.com/400x100.png?text=Se+isto+aparecer,+outras+imagens+funcionam)
