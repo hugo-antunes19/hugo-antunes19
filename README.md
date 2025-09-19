@@ -43,5 +43,4 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
 </p>
 
 
-
-![Animação de Contribuição](https://raw.githubusercontent.com/SEU-USUARIO-DO-GITHUB/SEU-USUARIO-DO-GITHUB/output/github-contribution-grid-snake.svg)
+[![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-DO-GITHUB&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
