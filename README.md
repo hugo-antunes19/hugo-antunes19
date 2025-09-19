@@ -56,3 +56,8 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
 
 [![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hugo-antunes19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=hugo-antunes19&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=hugo-antunes19&color=blueviolet&style=flat-square)
+
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=hugo-antunes19&color=blueviolet&style=flat-square)
