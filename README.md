@@ -4,16 +4,16 @@
 
   <div style="display: inline_block"><br>
     <a href="https://github.com/[SEU-USUARIO-DO-GITHUB]">
-      <img align="center" alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-      <img align="center" alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-DO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight" />
+      <img align="center" alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-antunes19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+      <img align="center" alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-antunes19&layout=compact&langs_count=7&theme=tokyonight" />
     </a>
   </div>
 
   <div>
-    <a href="mailto:[SEU-EMAIL@gmail.com]">
+    <a href="mailto:hugoleandroantunes@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/[SEU-PERFIL-LINKEDIN]/" target="_blank">
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hugo-antunes-08a76b213//" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </div>
