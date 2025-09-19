@@ -41,3 +41,7 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
+
+
+
+![Animação de Contribuição](https://raw.githubusercontent.com/SEU-USUARIO-DO-GITHUB/SEU-USUARIO-DO-GITHUB/output/github-contribution-grid-snake.svg)
