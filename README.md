@@ -43,4 +43,4 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
 </p>
 
 
-[![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-DO-GITHUB&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hugo-antunes19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
