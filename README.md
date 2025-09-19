@@ -42,4 +42,17 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
 
-![Animação de Contribuição](https://raw.githubusercontent.com/hugo-antunes19/hugo-antunes19/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/metrics/classic.svg?username=hugo-antunes19&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_timezone=America%2FSao_Paulo)](https://github.com/lowlighter/metrics)
+
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=hugo-antunes19&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hugo-antunes19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
