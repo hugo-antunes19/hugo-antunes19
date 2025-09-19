@@ -3,12 +3,14 @@
 
   <h1>👋 Olá, eu sou Hugo Antunes!</h1>
 
-  <div style="display: inline_block"><br>
-    <a href="https://github.com/hugo-antunes19">
-      <img align="center" alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=hugo-antunes19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-      <img align="center" alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-antunes19&layout=compact&langs_count=7&theme=tokyonight" />
-    </a>
-  </div>
+  <div align="center">
+  <a href="https://github.com/hugo-antunes19">
+    <img src="https://github-readme-stats.vercel.app/api?username=hugo-antunes19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Estatísticas de Hugo Antunes" />
+  </a>
+  <a href="https://github.com/hugo-antunes19">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-antunes19&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  </a>
+</div>
 
   <div>
     <a href="mailto:hugoleandroantunes@gmail.com">
