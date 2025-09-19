@@ -41,23 +41,3 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
-
-
-
-
-
-
-
-
-
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/metrics/classic.svg?username=hugo-antunes19&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_timezone=America%2FSao_Paulo)](https://github.com/lowlighter/metrics)
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=hugo-antunes19&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Estatísticas de Sequência do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=hugo-antunes19&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=hugo-antunes19&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Contador de Visualizações](https://komarev.com/ghpvc/?username=hugo-antunes19&color=blueviolet&style=flat-square)
-
-![Contador de Visualizações](https://komarev.com/ghpvc/?username=hugo-antunes19&color=blueviolet&style=flat-square)
