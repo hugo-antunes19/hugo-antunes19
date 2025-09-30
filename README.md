@@ -29,7 +29,7 @@ Sou um estudante de Engenharia de Computação na UFRJ, apaixonado por Inteligê
 
 - 🔭 Estudando sobre Detecções de Anomalia.
 - 🌱 Aprofundando meus conhecimentos em Inteligência Artificial e Otimização.
-- 💡 Buscando oportunidades de estágio em Inteligência Artificial.
+- 💡 Buscando oportunidades de estágio como desenvolvedor.
 
 ## 🛠️ Ferramentas e Tecnologias
 
